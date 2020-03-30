@@ -10,7 +10,17 @@ A new Flutter application that tracks your heart beat with a graph chart.
 And let the app take care of the rest.
 
 # Screen shots
+![](https://github.com/Rahul-Blatz/Heart-Rate-Monitor-Flutter/blob/master/Fit%20heart/img1.jpg)
 
+![](https://github.com/Rahul-Blatz/Heart-Rate-Monitor-Flutter/blob/master/Fit%20heart/img2.jpg)
+
+![](https://github.com/Rahul-Blatz/Heart-Rate-Monitor-Flutter/blob/master/Fit%20heart/img3.jpg)
+
+![](https://github.com/Rahul-Blatz/Heart-Rate-Monitor-Flutter/blob/master/Fit%20heart/img4.jpg)
+
+![](https://github.com/Rahul-Blatz/Heart-Rate-Monitor-Flutter/blob/master/Fit%20heart/img5.jpg)
+
+![](https://github.com/Rahul-Blatz/Heart-Rate-Monitor-Flutter/blob/master/Fit%20heart/img6.jpg)
 
 ## Getting Started
 
