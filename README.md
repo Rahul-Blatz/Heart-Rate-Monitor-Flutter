@@ -1,6 +1,16 @@
 # google_fit_heart
 
-A new Flutter application.
+A new Flutter application that tracks your heart beat with a graph chart.
+
+# Requirements
+
+-- Smart band
+-- Connect to Google fit
+
+And let the app take care of the rest.
+
+# Screen shots
+
 
 ## Getting Started
 
