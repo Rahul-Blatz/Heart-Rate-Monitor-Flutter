@@ -9,6 +9,15 @@ A new Flutter application that tracks your heart beat with a graph chart.
 
 And let the app take care of the rest.
 
+# Packages
+
+Splash Screen -https://pub.flutter-io.cn/packages/flare_splash_screen
+Introduction Screen - https://pub.dev/packages/introduction_screen
+Horizontal Calendar - https://pub.dev/packages/horizontal_calendar_widget
+Graph - https://pub.dev/packages/flutter_sparkline
+Google Fit api - https://pub.dev/packages/health
+
+
 # Screen shots
 ![](https://github.com/Rahul-Blatz/Heart-Rate-Monitor-Flutter/blob/master/Fit%20heart/img1.jpg)
 
